@@ -1,0 +1,7 @@
+id = "mechcommit"
+name = "Mech Commit"
+version = "0.0.1"
+schema_version = 1
+authors = ["MaxDev"]
+description = "This extension tries to make commiting on vscode alot easier."
+repository = ""
